@@ -1,32 +1,15 @@
-## Project #3
+## Freeplay Viewer & Deployment
 Give a high-level overview of the project purpose
-- Questions to consider:
-    - What are the users?
-    - What job does it form for them?
-    - What inspired you to make it?
-    - What features are the most important?
+- Users: Gamers Looking for some fun on a budget
+- Purpose: To find and list free games in a clean and easy to navigate manner
+- Inspiration: As a gamer myself I hate when I cannot find anyhting to play with my friends, a free game view such as this would have helped us a lot.
 - STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
-## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
-
-## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+    - Situation:
+        - I was tasked with creating a basic front-end project to show my knowledge gained about front-end frameworks and development, along with the knowledge of delpoyment.
+    - Task:
+        - I decided to build and launch a basic free game view website I called freeplay-viewer. To do this quickly and easily I went back to the more basic tech stack of JS, CSS, & HTML
+    - Action
+        - I made sure to work in a timely manner this time around, though I still had problems managing my tasks and could have communicated better to my coach. 
+    - Result:
+    - The project was launched but could have been done better and cleaner
+    - GITHUB LINK: https://github.com/SnageTheSnakeMage/freeplay-viewer
