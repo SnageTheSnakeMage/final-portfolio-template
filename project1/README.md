@@ -1,33 +1,24 @@
-## Project #1
+## Inventory App
 Give a high-level overview of the project purpose
 - Questions to consider:
-    - What are the users?
-    - What job does it form for them?
-    - What inspired you to make it?
-    - What features are the most important?
+    - User Base: E-Commerce & Digital Companies 
+    - Value/Job It Provides: A clean way for them to manage, index and view their inventory
+    - Inspiration: Keeping track of my stuff personally has always been a hassle, so somehting like this for an organization would be invaluable.
+    - Bonus Features Implemented:
+    -      Models, Routes for Users and Orders
+    -      Query implementation
+    -      Reactive and works on both PC and Mobile
+    -      Server-Side Validation
 - STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
+    - Situation: Our Team was tasked to build a project that had as many of the project tiers as we could manage, we decided on building an inventory app to solve the problem of keeping track of digitally managing what a company has in stock.
+    - Task: This meant we had to design, build, and present a website that had basic CRUD operations and a RESTful links. We used the basic website techstack to accomplish this, that stack being: Javascript, CSS, & HTML.
+    - Action: We did this by diving up the work in github projects and worked on it over the course of about 1-2 weeks, While we did run into scheduling issues and some tasks had to be moved around or dropped in the end we managed to overshoot the goal.
+    - Results:
+    -     Overview
+    - ![image](https://github.com/user-attachments/assets/da71cb9e-4b66-4c69-9772-5659e7284518)
+    - The completed app looked neat and clean and fufilled its purpose.
 
-## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
-
-## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+    -     Evaluation
+    - We definitely did a great job but were also held back by things that could have been avoided with better planning and communication
+    -     Lessons Learned
+    - Communication and proper project planning and widespread understanding is very important to software development.
