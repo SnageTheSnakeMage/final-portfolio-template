@@ -17,6 +17,7 @@ Give a high-level overview of the project purpose
     -     Overview
     - ![image](https://github.com/user-attachments/assets/da71cb9e-4b66-4c69-9772-5659e7284518)
     - The completed app looked neat and clean and fufilled its purpose.
+    - GITHUB LINK: https://github.com/multiverseCelcTeam/inventory-app/
 
     -     Evaluation
     - We definitely did a great job but were also held back by things that could have been avoided with better planning and communication
