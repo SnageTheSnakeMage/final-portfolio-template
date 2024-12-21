@@ -3,12 +3,8 @@
 This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
 
 ## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
-- **Link to Portfolio Website**:
+- American Express
+- Oct 11th - Jan 9th
 
 ## Portfolio Introduction
-- Who you are
-- Why you do what you do
-- The teams you have worked on
-- Your areas of interest
+- Hi my name is Christopher Anderson I am an indie videogame developer going into software development in hope of transfering over skills learned
