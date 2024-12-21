@@ -1,33 +1,23 @@
-## Project #2
+## D&D API
 Give a high-level overview of the project purpose
 - Questions to consider:
-    - What are the users?
-    - What job does it form for them?
-    - What inspired you to make it?
-    - What features are the most important?
+    - Users: Tech Savvy Dungeon and Dragon Dungeon Masters(DMs)
+    - Purpose: Provide an easy and complete way for DMs to manage their homebrew monsters
+    - Inpiration: As a DM myself I almost made this project for myself to make a tool I could use for one of my favorite pastimes
 - STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
-
-## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
-
-## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+    - Situation
+        - I was tasked to complete a task that demonstrates my newfound knowledge of back-end development.
+    - Task:
+        - I chose a personal project I would not only enjoy but would use afer. I also wanted to implement my knew knowledge of a new language I learned while working for American Express, So I built this project with Quarkus and Kotlin.
+    - Action:
+        - After designing and deciding what I could and could not get done I built the entire project up in my spare time. It was hard due to not having as many resources as my peers due to kotlin bieng relatively new. 
+    - Result:
+        - Overview
+            - ![image](https://github.com/user-attachments/assets/8d2202b5-c57f-4bfd-9f40-fbda9d57c618)
+  
+            - ![image](https://github.com/user-attachments/assets/8f0174b8-5c53-4e49-bf01-cc05643c8e99)
+            - The project was completed in a less than timely manner but made the required expectations
+        - Evaluation
+            - The Project had no visuals and had to be interacted with a program like postman, but overall the back-end part was fully done and routed!
+        - Lessons Learned
+            - Time management is a major weakness of mine and can be improved and worked upon 
